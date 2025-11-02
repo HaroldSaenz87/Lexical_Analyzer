@@ -1,0 +1,36 @@
+/* 
+asiduwgiagalwigeli
+iauwbergoiabwroigboaiwuebgioawbioeugboiawbegoibawoiuegboiawbegoiubawoiegbiouawebgoiauwbegoi
+asdaaaaaaaaaaaa
+
+oo
+
+
+
+
+
+
+
+*/
+var x, y;
+
+/*comment aaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaa here*/
+begin
+/*eiuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+asdf
+asdf
+efw
+fa
+wef
+a
+cz
+*/
+y := 3;
+/*idk*/
+x := y + 56;
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+end.
+/*/* /* /* /* multiple begin comment delimeters */
+/* this should add * and / to tokens */*/
+/* This should get tokenized at proc and edure separately */
+proc/*testing testing 123*/edure
